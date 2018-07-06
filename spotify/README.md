@@ -256,7 +256,96 @@ For Flexbox, show diagrams from the
   ```
 
 #### Features CSS ####
+- starting simple.
+  ```css
+  .features {
+    text-align: center;
+  }
+  ```
+- small but cool detail. **New Concept**: color hex codes (not every shade has a name so we need numbers).
+  ```css
+  .features h2 {
+    text-decoration-color: #00c76f;
+  }
+  ```
+- same color for the `<h3>` tags.
+  ```css
+  .features h3 {
+    margin-top: 0;
+    color: #00c76f;
+  }
+  ```
+- flexbox helps again with the layout for the list.
+  ```css
+  .features ul {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 7%;
+    margin-bottom: 7%;
+  }
+
+  .features li {
+    width: 20%;
+  }
+  ```
+- final adjustments
+  ```css
+  .features p {
+    font-size: 25px;
+  }
+
+  .features img {
+    width: 50%;
+  }
+  ```
 
 #### Kanye CSS ####
+- flexbox again for layout.
+  ```css
+  .kanye {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 3%;
+    padding: 6%;
+    background-color: #00c76f;
+    color: white;
+  }
+  ```
+- spacing adjustments.
+  ```css
+  .kanye h2 {
+    margin-top: 0;
+  }
+
+  .kanye ul {
+    width: 50%;
+  }
+
+  .kanye li {
+    margin-bottom: 10%;
+  }
+  ```
+- set the size of the small text.
+  ```css
+  .kanye p {
+    font-size: 23px;
+  }
+  ```
+- to the surprise of no one, kanye is out of control and needs to be kept in line.
+  ```css
+  .kanye img {
+    width: 30%;
+  }
+  ```
+
+**CSS done!**
 
 
+### Part #4: Their Projects ###
+- Direct them to the **attendee info page** again to find information about the two suggested landing page designs.
+- Instruct them to **draw heavily from the Spotify example** and use **TAs as resources**.
+- They have **two hours** to submit their design.
+- Staff members will go around helping them submit (print to PDF and upload) or just check their designs.
+
+**Good luck!**
