@@ -1,3 +1,5 @@
+![Ironhack](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_6e171edc323b4df30ae1f1cefe63c7e2.png)
+
 Euro Coding Challenge: Speaker Notes
 ====================================
 The goal is to **live-code a landing page** while attendees follow along.
