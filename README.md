@@ -1,6 +1,9 @@
 Euro Coding Challenge
 =====================
 
+### [bit.ly/eurocoding](http://bit.ly/eurocoding)
+
+
 Spotify Project
 ---------------
 - Design reference
