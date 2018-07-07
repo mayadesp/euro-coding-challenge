@@ -47,9 +47,9 @@ Download and extract [the `spotify-project.zip` file](spotify/spotify-project.zi
   * _Discover_
   * _Enjoy new music every Monday with your own personal playlist. Or sit back and enjoy Radio._
 - Google Fonts `<link>` tag for [the Open Sans font](https://fonts.google.com/specimen/Open+Sans)
-```html
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet">
-```
+  ```html
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet">
+  ```
 
 
 Your Project: Ironhack Alumni Page
@@ -59,6 +59,45 @@ A simplified version of the [Ironhack Alumni page](https://www.ironhack.com/en/a
 Click on the image below to see a mockup of the project.
 
 [![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_31159ad947a7211f74e81dde5d48aefa.png)](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_c77fc7be3f64944897f2d0c219c2404d.png)
+
+### Images ###
+- [ironhack-logo.png](ironhack/images/ironhack-logo.png?raw=true)
+- [hexagon.png](ironhack/images/hexagon.png?raw=true)
+- [student.png](ironhack/images/student.png?raw=true)
+
+### Text & Code Snippets ###
+- Header Text
+  * _Courses_
+  * _Locations_
+  * _Alumni_
+  * _Career_
+  * _Services_
+  * _Apply Now_
+- Big Section Text
+  * _Alumni_
+  * _Learn about the Ironhack experience directly from those who have already lived it and survived to tell the tale._
+- Statistics Text
+  * _+1500 Graduated Students_
+  * _4.9/5 Average Rating_
+  * _+600 Student Testimonials_
+- Featered Alumni Text
+  * _Featured Alumni_
+  * _"Society, Science, Tech and the world in general are changing so fast, that it’s nearly impossible for universities to react accordingly."_
+  * _Karolin Siebert - Web Development Bootcamp_
+- Ratings Text
+  * _Rated Top 3 in the World_
+  * _Our 4.9 score on Course Report and SwitchUp rank us in the top 3 coding and design schools in the world. Here are some of our student reviews:_
+  * _"Even after finishing the bootcamp, I know there is so much to learn. Ironhack gave me the tools to learn on my own for my web development career."_
+  * _Reviewed by Sarah Abogabir_
+  * _"I would go back and do it again in a heartbeat. Even the hard times, the late nights, every moment of it brought me where I am today. If you love software and need a place to start, you really don’t need to look any further."_
+  * _Reviewed by Crystal Jones_
+  * _"Ironhack has been an unforgettable experience for me and that I would most definitely recommend it to anyone really serious about learning how to code!"_
+  * _Reviewed by Tiago Ameller_
+- Google Fonts `<link>` tag for [the Roboto Mono font](https://fonts.google.com/specimen/Roboto+Mono) (titles)
+  and [the Roboto font](https://fonts.google.com/specimen/Roboto) (other text).
+  ```html
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:700|Roboto" rel="stylesheet">
+  ```
 
 
 Want to learn more?
