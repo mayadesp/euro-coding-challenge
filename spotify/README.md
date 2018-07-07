@@ -234,7 +234,7 @@ For Flexbox, show diagrams from the
     height: 768px;
   }
   ```
-- now for the background. **New Concept**: background image (size and position to adjust what we see).
+- now for the background. download `background.jpg` into `images/`. **New Concept**: background image (size and position to adjust what we see).
   ```css
   .big-section {
     /* ... */
