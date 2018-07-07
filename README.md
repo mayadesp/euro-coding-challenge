@@ -52,13 +52,13 @@ Download and extract [the `spotify-project.zip` file](spotify/spotify-project.zi
 ```
 
 
-Your Project
-------------
+Your Project: Ironhack Alumni Page
+----------------------------------
+A simplified version of the [Ironhack Alumni page](https://www.ironhack.com/en/alumni).
 
-Two choices:
+Click on the image below to see a mockup of the project.
 
-1. WeWork Mission page (https://www.wework.com/mission)
-2. Ironhack Alumni page (https://www.ironhack.com/en/alumni)
+[![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_31159ad947a7211f74e81dde5d48aefa.png)](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_c77fc7be3f64944897f2d0c219c2404d.png)
 
 
 Want to learn more?
