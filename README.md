@@ -1,11 +1,11 @@
 ![Ironhack](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_6e171edc323b4df30ae1f1cefe63c7e2.png)
 
-Euro Coding Challenge
+Dauphine Coding Challenge
 =====================
 
-### [bit.ly/eurocoding](http://bit.ly/eurocoding)
+### [bit.ly/dauphinecoding](http://bit.ly/dauphinecoding)
 
-Welcome to Ironhack's Euro Coding Challenge!
+Welcome to Ironhack's Dauphine Coding Challenge!
 In this page you will find all the resources you'll need for your coding adventure.
 
 
